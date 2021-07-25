@@ -34,8 +34,9 @@ body {
 
 .toy-avatar {
   justify-self: center;
-  height: 12rem;
+  max-height: 12rem;
   width: auto;
+  max-width: 15rem;
 }
 
 button {
